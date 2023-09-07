@@ -86,3 +86,5 @@ class Channel:
         """ Метод для сравниения 2х каналов между собой """
 
         return self.count_subscribers >= other.count_subscribers
+
+
